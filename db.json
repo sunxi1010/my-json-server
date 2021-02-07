@@ -2,11 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "temper": "29.345,23.56,abc"
+      "temper": "29.345"
     },
     {
       "id": 2,
-      "temper": "34.5"
+      "temper": "34.578"
     }
   ],
   "profile": {
