@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "message": "(device_1, {location: china, temperatue: 34.55})"
+      "temper": "35.768"
     },
     {
       "id": 2,
